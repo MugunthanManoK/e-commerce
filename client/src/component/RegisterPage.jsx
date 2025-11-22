@@ -79,7 +79,7 @@ function RegisterPage() {
                 onChange={handleChange}
                 />
 
-                <button type='submit' >Register</button>
+                <button type='submit' >Registers</button>
             </form>
         </div>
     </div>
